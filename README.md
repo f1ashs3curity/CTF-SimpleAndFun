@@ -1,5 +1,5 @@
 # Clone this repo
-git clone https://github.com/j
+git clone https://github.com/f1ashs3curity/CTF-SimpleAndFun.git
 
 # Setup Instructions
 1. Create a MySQL database for the SQL Injection challenge:
